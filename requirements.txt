@@ -35,7 +35,6 @@ GitPython==3.1.44
 google-pasta==0.2.0
 grpcio==1.71.0
 h5py==3.13.0
-htmlmin==0.1.12
 icalendar==6.3.1
 idna==3.10
 ImageHash==4.3.1
